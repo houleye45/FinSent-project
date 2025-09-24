@@ -26,7 +26,6 @@ __pycache__/
 # Données temporaires
 *.db
 *.sqlite
-*.sql
 .DS_Store
 
 # BigQuery / exports
