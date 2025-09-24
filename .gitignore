@@ -1,0 +1,40 @@
+# Environnements virtuels
+env/
+venv/
+.venv/
+
+# Variables d'environnement / secrets
+*.env
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Configs locales (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Données temporaires
+*.db
+*.sqlite
+*.sql
+.DS_Store
+
+# BigQuery / exports
+*.json
+
+# Flask
+instance/
+*.pyc
+
+# Jupyter notebook hidden
+.ipynb_checkpoints/
